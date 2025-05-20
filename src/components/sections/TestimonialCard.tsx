@@ -25,11 +25,7 @@ export function TestimonialCard() {
 
         {/* Author Info */}
         <div className="flex items-center justify-center">
-          <img
-            src="/lookscout/ceo.png"
-            alt="Lisa Smith"
-            className="h-16 w-16 rounded-full"
-          />
+          <img src="/lookscout/ceo.png" alt="Lisa Smith" />
         </div>
       </div>
     </div>
